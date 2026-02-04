@@ -1,0 +1,198 @@
+{
+    "about": {
+        "name": "Aya Abdelmoneim",
+        "title": "Flutter Instructor | Mobile Application Developer",
+        "summary": "Flutter Instructor and Mobile Application Developer with experience building production-ready mobile applications across healthcare, education, and community platforms. I specialize in Clean Architecture, state management, and writing maintainable Flutter code aligned with real market needs. I enjoy mentoring junior developers and preparing students for professional Flutter roles.",
+        "email": "ayhb756@gmail.com",
+        "portfolio": "https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html",
+        "linkedin": "https://www.linkedin.com/in/aya-elmoneim/",
+        "github": "https://github.com/AyaAbdElmoneim158"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science & Artificial Intelligence",
+            "period": "2019 – 2023",
+            "university": "Benha University",
+            "specialization": "Artificial Intelligence"
+        }
+    ],
+    "skills": [
+        "OOP",
+        "SOLID Principles",
+        "Clean Code",
+        "Problem Solving",
+        "Fast Learning",
+        "Flutter",
+        "Dart",
+        "Responsive Design",
+        "Localization",
+        "Payment Gateways",
+        "Provider",
+        "Riverpod",
+        "Bloc & Cubit",
+        "GetX",
+        "MVC Architecture",
+        "MVVM Architecture",
+        "Clean Architecture",
+        "RESTful APIs",
+        "GraphQL",
+        "Firebase",
+        "SQLite",
+        "Hive",
+        "Shared Preferences",
+        "Git / GitHub",
+        "CI/CD",
+        "Deployment (Google Play & App Store)",
+        "Teamwork",
+        "Active Listening",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "period": "Jul 2025 – Present",
+            "position": "Flutter Instructor",
+            "company": "Cs Academy",
+            "info": "Part-time | Remote",
+            "desc": "Lead hands-on Flutter training, teaching MVVM architecture, Bloc state management, RESTful APIs, and production-ready app development. Mentored students in GitHub portfolio building and technical interview prep.",
+            "image": "assets/images/companies/cs_academy1_logo.jfif",
+            "skills": [
+                "Flutter",
+                "Firebase",
+                "MVVM",
+                "Bloc",
+                "REST API",
+                "Mentoring"
+            ],
+            "todo": [
+                "Designed and delivered a complete Flutter curriculum covering Dart, UI, state management, Firebase, and REST APIs.",
+                "Increased student project completion rates by 40% through hands-on labs and real-world assignments.",
+                "Guided students in building production-ready e-commerce apps using MVVM architecture.",
+                "Conducted code reviews to enforce Clean Code and best practices.",
+                "Mentored students in portfolio development and technical interview preparation.",
+                "Supported transition from academic learning to industry-ready Flutter skills."
+            ]
+        },
+        {
+            "period": "Jan 2025 – May 2025",
+            "position": "Flutter Developer",
+            "company": "E Connect Africa",
+            "info": "Full-time | On-site (Banha, Egypt)",
+            "desc": "Developed and optimized healthcare and education apps, including the Mighty Education App. Implemented authentication, admission workflows, and scalable architecture using Riverpod and Flutter Flavors, collaborating closely with UI/UX and backend teams.",
+            "image": "assets/images/companies/e_connect_africa_logo.jfif",
+            "skills": [
+                "Flutter",
+                "Riverpod",
+                "MVVM",
+                "Firebase",
+                "Flutter Flavors",
+                "Clean Code"
+            ],
+            "todo": [
+                "Improved UI responsiveness and reduced testing issues by 25%.",
+                "Led full-cycle development of Mighty Education App with authentication and admission modules.",
+                "Built scalable, maintainable codebase with Riverpod and Flutter Flavors, improving build stability by 30%.",
+                "Collaborated with UI/UX and backend teams for pixel-perfect interfaces and API integration.",
+                "Applied Clean Code principles throughout development."
+            ]
+        },
+        {
+            "period": "Sep 2024 – Dec 2024",
+            "position": "Flutter Developer Intern",
+            "company": "Mentor Academy Learning",
+            "info": "Internship | Remote",
+            "desc": "Built a scalable Flutter app using MVVM and Firebase, managing authentication and Firestore integration. Maintained version control with Git/GitHub and followed Clean Code practices.",
+            "image": "assets/images/companies/mentor_academy_learning.jfif",
+            "skills": [
+                "Flutter",
+                "MVVM",
+                "Firebase",
+                "Git",
+                "Clean Code"
+            ],
+            "todo": [
+                "Developed scalable Flutter application with MVVM architecture and Firebase services.",
+                "Implemented real-time data sync and authentication features.",
+                "Maintained clean version control and code standards.",
+                "Gained experience in agile workflows and collaborative development."
+            ]
+        },
+        {
+            "period": "Mar 2024 – May 2024",
+            "position": "Flutter Developer",
+            "company": "El Brics",
+            "info": "Freelance | Remote",
+            "desc": "Implemented features like pagination, Google Maps, and video player integration. Developed and published a Quran app with search, bookmarking, Tafsir integration, and offline support, improving overall team workflow.",
+            "image": "assets/images/companies/el_brics.jfif",
+            "skills": [
+                "Flutter",
+                "Firebase",
+                "Google Maps API",
+                "Offline Support",
+                "Video Player"
+            ],
+            "todo": [
+                "Implemented pagination, Google Maps, and video player features.",
+                "Developed and published Quran app with search, bookmarks, Tafsir, and offline support.",
+                "Contributed to improving development workflow and collaboration."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "ElBalto App",
+            "desc": "A telemedicine platform enabling live video consultations with certified doctors and delivering detailed medical reports.",
+            "responsibilities": [
+                "Enhanced UI/UX for smoother, more user-friendly experience.",
+                "Fixed API issues including slow responses and data inconsistencies.",
+                "Collaborated with backend and QA teams to ensure stable releases."
+            ],
+            "techs": "Flutter ,REST API ,Riverpod ,Flavors",
+            "image": "assets/images/projects/elbalto.png",
+            "link": "https://play.google.com/store/apps/details?id=com.elbalto"
+        },
+        {
+            "name": "Care Connect Sudan",
+            "desc": "Official networking app for Sudan’s Ministry of Health, connecting healthcare professionals for consultations and discussions.",
+            "responsibilities": [
+                "Improved UI/UX and resolved API integration issues.",
+                "Worked with cross-functional teams to deliver a scalable healthcare collaboration platform."
+            ],
+            "techs": "Flutter, REST API, Riverpod, Google Maps",
+            "image": "assets/images/projects/care_connect_sudan.png",
+            "link": "https://play.google.com/store/apps/details?id=com.econnect.scare&hl=en"
+        },
+        {
+            "name": "Mighty App",
+            "desc": "An education platform managing the full admission process for children, from nursery to final acceptance.",
+            "responsibilities": [
+                "Developed authentication, application submission, and admission tracking features with smooth UI and API integration.",
+                "Collaborated with backend and product teams to ensure a reliable, user-friendly experience for parents."
+            ],
+            "techs": "Flutter, REST API, Riverpod",
+            "image": "assets/images/projects/mighty.png",
+            "link": "https://play.google.com/store/apps/details?id=com.elbalto"
+        },
+        {
+            "name": "Quran App",
+            "desc": "A full-featured Quran app with advanced search, bookmarking, Tafsir integration, and offline support.",
+            "responsibilities": [
+                "Built the app from scratch using Flutter with search, bookmark, and Tafsir features.",
+                "Published and maintained the app on Google Play, achieving consistent updates and bug fixes."
+            ],
+            "techs": "Flutter, Dart",
+            "image": "assets/images/projects/quran.png",
+            "link": "https://play.google.com/store/apps/details?id=at.ayhb756.quranapp"
+        },
+        {
+            "name": "Tasky App",
+            "desc": "A task management app to help users organize and prioritize tasks efficiently.",
+            "responsibilities": [
+                "Implemented JWT authentication, QR code scanning, and task priority tracking using BLoC and Dio.",
+                "Designed a polished, user-friendly UI and integrated Shared Preferences for local storage."
+            ],
+            "techs": "Flutter, REST API, Cubit",
+            "image": "assets/images/projects/tasky.png",
+            "link": "https://github.com/AyaAbdElmoneim158/Tasky/blob/master/README.md"
+        }
+    ]
+}
